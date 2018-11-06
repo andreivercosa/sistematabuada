@@ -1,0 +1,11 @@
+/Users/aluno/Projects/sistematabuada/sistematabuada/obj/Debug/netcoreapp2.1/sistematabuada.csprojAssemblyReference.cache
+/Users/aluno/Projects/sistematabuada/sistematabuada/obj/Debug/netcoreapp2.1/sistematabuada.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/sistematabuada/sistematabuada/obj/Debug/netcoreapp2.1/sistematabuada.AssemblyInfoInputs.cache
+/Users/aluno/Projects/sistematabuada/sistematabuada/obj/Debug/netcoreapp2.1/sistematabuada.AssemblyInfo.cs
+/Users/aluno/Projects/sistematabuada/sistematabuada/bin/Debug/netcoreapp2.1/sistematabuada.deps.json
+/Users/aluno/Projects/sistematabuada/sistematabuada/bin/Debug/netcoreapp2.1/sistematabuada.runtimeconfig.json
+/Users/aluno/Projects/sistematabuada/sistematabuada/bin/Debug/netcoreapp2.1/sistematabuada.runtimeconfig.dev.json
+/Users/aluno/Projects/sistematabuada/sistematabuada/bin/Debug/netcoreapp2.1/sistematabuada.dll
+/Users/aluno/Projects/sistematabuada/sistematabuada/bin/Debug/netcoreapp2.1/sistematabuada.pdb
+/Users/aluno/Projects/sistematabuada/sistematabuada/obj/Debug/netcoreapp2.1/sistematabuada.dll
+/Users/aluno/Projects/sistematabuada/sistematabuada/obj/Debug/netcoreapp2.1/sistematabuada.pdb

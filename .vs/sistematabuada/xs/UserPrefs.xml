@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{6967F730-903C-44D4-860B-14C3C9547099}|Default">
+  <MonoDevelop.Ide.ItemProperties.sistematabuada PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="sistematabuada/Tabuada.cs">
+    <Files>
+      <File FileName="sistematabuada/Program.cs" Line="11" Column="39" />
+      <File FileName="sistematabuada/Tabuada.cs" Line="19" Column="26" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
